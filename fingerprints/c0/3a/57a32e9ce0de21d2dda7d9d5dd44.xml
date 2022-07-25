@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-07-07 15:19:05.722 UTC</timestamp>
+  <md5sum>c03a57a32e9ce0de21d2dda7d9d5dd44</md5sum>
+  <fileName>Credential id=ukkuji name=ukkuji/******</fileName>
+  <usages>
+    <entry>
+      <string>landing-page project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>ukku project</string>
+      <ranges>1-7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
